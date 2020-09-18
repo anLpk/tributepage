@@ -45,6 +45,7 @@ hr {
 a {
   text-decoration: none;
   color: rgb(220,220,220);
+  color:#c33; /* previous color was not clear on some mobile devices */
 }
 
 a:visited {
